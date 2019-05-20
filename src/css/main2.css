@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Montserrat');
+
+#delate{
+   background-color: #C1B9B7;
+}
+
+#titule {
+    font-family: 'Pacifico', cursive;
+    
+}
+
+#titule2 {
+    font-family: 'Abel', sans-serif;
+    padding-top: 10px;
+    
+}
+
+
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.container1 {
+    
+    padding-top: 10px;
+}
+
+
+.container3 {
+    
+    padding-top: 20px;
+}
+
+.container-button-google{
+    height: 40px;
+}
+
+.container-information{
+    
+    height: 190px;
+}
+.navbar-brand{
+font-family: 'Pacifico', cursive;
+    
+}
+
+#navegador{
+    background-color: #73CBE1;
+        
+}
+
+#card-social{
+margin-top: 30px;
+margin-left: 10px;
+
+}
+
+#button-topost{
+    background-color: #73CBE1; 
+    margin-top: 10px;
+}
+
+.icon{
+    font-size: 1em;
+    color: rgb(80, 196, 241);
+
+}
+
+textarea:read-Only {
+    background-color:white;
+
+  }
+
+  .nav {
+    
+    padding-top: 30px;
+}
+.alert{
+    
+    background-color:#EFEFEF;
+    height: 500px;
+
+}
+
+.nav-link{
+    font-size: 15px;
+    color: black;
+
+}
+
+#resultLikes{
+color: orange;
+
+}
+
+#buttonInformation{
+    margin: 0px;
+}
